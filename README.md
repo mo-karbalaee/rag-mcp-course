@@ -1,3 +1,1 @@
-Based on this course:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7_WXKhyGms?si=wS4Xh4BEblbNKyuj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+I followed [this course](https://youtu.be/I7_WXKhyGms?si=hsL4mS9Tj5a4qxkC).
